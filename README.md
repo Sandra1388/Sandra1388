@@ -2,7 +2,7 @@
 
 Aspiring Developer | Web Enthusiast | Lifelong Learner
 
-_______________________________________________
+________________________________________________
 
 ✨ Tech Stack & Tools
 
@@ -29,5 +29,15 @@ A lightweight C program used to create, organize, and manage event schedules eff
 🏨 Venue Booking System
 
 A web-based platform built with Flask and MySQL that allows users to browse venues, check availability, and manage bookings seamlessly
+
+_________________________________________________
+
+## 📊 GitHub Stats
+
+![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandra1388&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sandra1388&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandra1388&layout=compact&theme=dark)
 
 
