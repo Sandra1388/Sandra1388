@@ -34,7 +34,6 @@ _________________________________________________
 
 ## 📊 GitHub Stats
 
-![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandra1388&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sandra1388&theme=dark)
 
