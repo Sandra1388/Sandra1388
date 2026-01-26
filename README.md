@@ -1,42 +1,31 @@
-✨ Hi, I'm Sandra B
+ 👋 Hi, I'm Sandra B  
+**Aspiring Developer | Web Enthusiast | Lifelong Learner**
 
-Aspiring Developer | Web Enthusiast | Lifelong Learner
+MCA student passionate about building practical web applications and continuously improving my development skills.
 
-________________________________________________
+--------------
 
-✨ Tech Stack & Tools
+🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,php,js,html,css,mysql,git,github,vscode" />
+</p>
 
-🧑‍💻 Languages: C, PHP, JavaScript, SQL
+---------------
 
-🎨 Frontend: HTML, CSS
+🚀 Projects
+- *Shoe Laundry Management System* :-  PHP & MySQL web app for managing bookings, order status, and delivery tracking.
 
-🗄 Database: MySQL (XAMPP)
+- *Event Scheduler (C – Mini Project)* :- A C-based program to create and manage event schedules efficiently.
 
-🛠 Tools: Git, GitHub, XAMPP, VS Code, Canva
+- *Venue Booking System* :- Flask & MySQL web application for venue browsing, availability checks, and bookings.
 
-_________________________________________________
+---------------
 
-🚀 Featured Projects
-
-🧼 Shoe Laundry Management System
-
-A PHP & MySQL-based web application designed to manage shoe cleaning service bookings, order updates, and delivery tracking.
-
-🎮 Mini Project in C – Event Scheduler
-
-A lightweight C program used to create, organize, and manage event schedules efficiently.
-
-🏨 Venue Booking System
-
-A web-based platform built with Flask and MySQL that allows users to browse venues, check availability, and manage bookings seamlessly
-
-_________________________________________________
-
-## 📊 GitHub Stats
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sandra1388&theme=dark)
-
+📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Sandra1388&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandra1388&layout=compact&theme=dark)
 
+---------------
 
+🔗 Connect with Me
+- 💼 LinkedIn: [linkedin.com/in/sandra-b-02126a371](https://www.linkedin.com/in/sandra-b-02126a371)
