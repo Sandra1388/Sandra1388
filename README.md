@@ -5,7 +5,9 @@ MCA student passionate about building practical web applications and continuousl
 
 ---
 
+
 ## 🛠️ Tech Stack
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40"/> C &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=php" height="40"/> PHP &nbsp;&nbsp;
@@ -20,28 +22,29 @@ MCA student passionate about building practical web applications and continuousl
 
 ---
 
+
 ## 🚀 Projects
-- **Shoe Laundry Management System**  
-  PHP & MySQL web app for managing bookings, order status, and delivery tracking.
 
-- **Event Scheduler (C – Mini Project)**  
-  A C-based program to create and manage event schedules efficiently.
+- **Shoe Laundry Management System**  :-  PHP & MySQL web app for managing bookings, order status, and delivery tracking.
 
-- **Venue Booking System**  
-  Flask & MySQL web application for venue browsing, availability checks, and bookings.
+- **Event Scheduler (C – Mini Project)**  :-  A C-based program to create and manage event schedules efficiently.
+
+- **Venue Booking System**  :-  Flask & MySQL web application for venue browsing, availability checks, and bookings.
 
 ---
 
+
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sandra1388&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandra1388&layout=compact&theme=dark)
 
 ---
 
+
 ## 🔗 Connect with Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/sandra-b-02126a371" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> LinkedIn
   </a>
 </p>
