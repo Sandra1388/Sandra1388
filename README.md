@@ -31,4 +31,9 @@ Flask & MySQL web application for venue browsing, availability checks, and booki
 ---
 
 ## 🔗 Connect with Me
-💼 **LinkedIn:** [linkedin.com/in/sandra-b-02126a371](https://www.linkedin.com/in/sandra-b-02126a371)
+<p align="left">
+  <a href="https://www.linkedin.com/in/sandra-b-02126a371" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="28" />
+    <strong> LinkedIn</strong>
+  </a>
+</p>
