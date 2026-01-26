@@ -1,16 +1,33 @@
-## Hi there 👋
+✨ Hi, I'm Sandra B
 
-<!--
-**Sandra1388/Sandra1388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Developer | Web Enthusiast | Lifelong Learner
 
-Here are some ideas to get you started:
+_______________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Tech Stack & Tools
+
+🧑‍💻 Languages: C, PHP, JavaScript, SQL
+
+🎨 Frontend: HTML, CSS
+
+🗄 Database: MySQL (XAMPP)
+
+🛠 Tools: Git, GitHub, XAMPP, VS Code, Canva
+
+_________________________________________________
+
+🚀 Featured Projects
+
+🧼 Shoe Laundry Management System
+
+A PHP & MySQL-based web application designed to manage shoe cleaning service bookings, order updates, and delivery tracking.
+
+🎮 Mini Project in C – Event Scheduler
+
+A lightweight C program used to create, organize, and manage event schedules efficiently.
+
+🏨 Venue Booking System
+
+A web-based platform built with Flask and MySQL that allows users to browse venues, check availability, and manage bookings seamlessly
+
+
