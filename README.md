@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sandra B  
 **Aspiring Developer | Web Enthusiast | Lifelong Learner**
 
-MCA student passionate about building practical web applications and continuously improving my development skills
+MCA student passionate about building practical web applications and continuously improving my development skills.
 
 ---
 
